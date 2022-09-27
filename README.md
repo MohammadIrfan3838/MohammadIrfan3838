@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadIrfan3838
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AWS DevOps.
+- 🌱 I’m currently exploring and very passionate to upgrade myself to modern technologies.
+- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on 9100197308
 
 <!---

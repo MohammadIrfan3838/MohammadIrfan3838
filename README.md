@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohammadIrfan3838
-- 👀 I’m interested in AWS DevOps.
+- 👀 I’m an experienced AWS DevOps Engineer. And I'm pretty much interested in AI/ML.
 - 🌱 I’m currently exploring and very passionate to upgrade myself to modern technologies.
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on 9100197308 / Email @ mohammadirfan3838@gmail.com
 
 <!---

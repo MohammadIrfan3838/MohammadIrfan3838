@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS DevOps.
 - 🌱 I’m currently exploring and very passionate to upgrade myself to modern technologies.
 - 💞️ I’m looking to collaborate on 
-- 📫 You can reach me on 9100197308
+- 📫 You can reach me on 9100197308 / Email @ mohammadirfan3838@gmail.com
 
 <!---
 MohammadIrfan3838/MohammadIrfan3838 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
